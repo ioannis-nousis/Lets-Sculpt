@@ -24,3 +24,7 @@ Images are organized by date or theme. Most of the work is original and not base
 - Clean topology and retopology experiments
 - Full-body character sculpting
 - Expressions and facial animation-ready sculpts
+
+Working on Right Now !
+
+![image](https://github.com/user-attachments/assets/51edeeb1-af26-41c6-acba-735d2c4c048c)
